@@ -1,0 +1,20 @@
+.container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 100%;
+}
+
+.button {
+  width: auto;
+}
+
+.result {
+  width: 10%;
+}
